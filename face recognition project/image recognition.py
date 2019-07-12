@@ -1,3 +1,5 @@
+# This is the code for Face Recognition Project
+
 import cv2
 
 face_cascade = cv2.CascadeClassifier("C:\\Users\\Saad\\Desktop\\image project\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml")
